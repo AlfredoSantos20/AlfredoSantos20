@@ -27,7 +27,7 @@
 ## 🧪 Tech Stack
 **Backend:** Laravel • NestJS • Express • **FastAPI** • **Django**  
 **Frontend:** React.js • Bootstrap • Tailwind CSS • **Flutter**  
-**CMS:** Strapi • Payload  
+**CMS:** Strapi 
 **Languages:** PHP • JavaScript/TypeScript • **Python**  
 **Databases:** PostgreSQL • MySQL  
 **Infra/DevOps:** **Ubuntu** • **Nginx** • **Hostinger**  
@@ -42,7 +42,6 @@
   <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
   <img alt="Strapi" src="https://img.shields.io/badge/Strapi-4945FF?logo=strapi&logoColor=white">
-  <img alt="Payload" src="https://img.shields.io/badge/Payload-000000?logo=payloadcms&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005E87?logo=mysql&logoColor=white">
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white">
@@ -58,7 +57,7 @@
 ---
 
 ## 💼 Experience
-- **Developer — Go8 Technology Inc.** _(Mar 2025 – Present)_  
+- **Full Stack Developer — Go8 Technology Inc.** _(Mar 2025 – Present)_  
 - **Backend Developer — Quantum Metal Digital Solutions Inc.** _(Nov 2024 – Mar 2024)_
 
 ## 🎓 Education
