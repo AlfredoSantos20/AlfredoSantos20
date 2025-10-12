@@ -57,8 +57,7 @@
 ---
 
 ## 💼 Experience
-- **Full Stack Developer — Go8 Technology Inc.** _(Mar 2025 – Present)_  
-- **Backend Developer — Quantum Metal Digital Solutions Inc.** _(Nov 2024 – Mar 2024)_
+- **Full Stack Developer — Quantum Metal Digital Solutions Inc.** _(Nov 2024 – Present)_
 
 ## 🎓 Education
 - **B.S. in Information Technology**, Nueva Ecija University of Science and Technology _(Aug 2020 – Jun 2024)_
