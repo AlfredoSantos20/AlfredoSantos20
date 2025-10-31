@@ -20,7 +20,7 @@
 - 🧩 Real-world experience integrating **CMS** (Strapi, Payload) into product stacks.
 - 🔗 Web3/EVM tooling with **Hardhat** and smart-contract interaction.
 - 🧰 Daily tools: **Git** & **GitHub**, code reviews, feature branches, PRs.
-- 🎯 Currently: **Developer @ Go8 Technology Inc. (Mar 2025 – Present)**.
+- 🎯 Currently: **Quantum Metal Digital Solutions Inc. (2024 – Present)**.
 
 ---
 
