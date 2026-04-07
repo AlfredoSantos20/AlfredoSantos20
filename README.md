@@ -30,7 +30,7 @@
 **CMS:** Strapi 
 **Languages:** PHP • JavaScript/TypeScript • **Python**  
 **Databases:** PostgreSQL • MySQL  
-**Infra/DevOps:** **Ubuntu** • **Nginx** • **Hostinger**  
+**Infra/DevOps:** **Ubuntu** • **Nginx** • **Hostinger**  • **AWS**  
 **Web3/EVM:** **Hardhat**  
 **Other:** Smart-contract interaction • Git/GitHub
 
