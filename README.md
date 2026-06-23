@@ -70,12 +70,14 @@
 ---
 
 ## 🏆 GitHub Trophies
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=AlfredoSantos20&theme=onestar&no-frame=true&no-bg=true&margin-w=10"
-    alt="GitHub Profile Trophies"
-  />
-</a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=AlfredoSantos20&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"
+      alt="GitHub Trophies"
+    />
+  </a>
+</p>
 
 ---
 
