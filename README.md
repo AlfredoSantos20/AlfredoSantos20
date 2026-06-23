@@ -71,12 +71,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=AlfredoSantos20&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"
-      alt="GitHub Trophies"
-    />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlfredoSantos20&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
