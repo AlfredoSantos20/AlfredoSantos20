@@ -71,7 +71,12 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlfredoSantos20&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlfredoSantos20&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoSantos20&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AlfredoSantos20&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 ---
